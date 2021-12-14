@@ -94,6 +94,14 @@ export default {
           value: "transport",
         },
         {
+          text: this.$t("sockets.username"),
+          value: "username",
+        },
+        {
+          text: this.$t("sockets.avatar"),
+          value: "avatar",
+        },
+        {
           value: "actions",
           align: "end",
           sortable: false,

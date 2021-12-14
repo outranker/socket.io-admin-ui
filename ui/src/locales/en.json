@@ -43,7 +43,9 @@
     "join-a-room": "Join a room",
     "initial-request": "Initial HTTP request",
     "headers": "Headers",
-    "query-params": "Query parameters"
+    "query-params": "Query parameters",
+    "username": "username",
+    "avatar": "avatar"
   },
   "rooms": {
     "title": "Rooms",
